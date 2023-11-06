@@ -1,6 +1,6 @@
 # VBA-challenge
 
-##Purpose
+## Purpose
 This repository contains all the files related to the VBA Challenge
 
 ### Solution Files
