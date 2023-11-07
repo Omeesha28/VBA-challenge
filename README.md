@@ -8,7 +8,7 @@ The folder will contain 2 files related to the challenge
 Excel Sheet
 VBA Code
 
-#### Screenshots
+### Screenshots
 Three screenshots have been uploaded with results from 2018, 2019, and 2020.
 
 ![output](2018.png)
