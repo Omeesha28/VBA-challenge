@@ -12,3 +12,5 @@ VBA Code
 Three screenshots have been uploaded with results from 2018, 2019, and 2020.
 
 ![output](2018.png)
+![output](2019.png)
+![output](2020.png)
